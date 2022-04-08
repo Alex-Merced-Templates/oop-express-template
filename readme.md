@@ -2,7 +2,7 @@
 ### By Alex Merced (AlexMercedCoder.com)
 
 ## Setup
-- create new project by clicking the template button on the main github repo for this template
+- create new project by clicking the template button on the main github repo for this template or by running command `npx degit Alex-Merced-Templates/oop-express-template`
 - clone the new project from github
 - run `npm install` from the main folder (the one with package.json)
 - rename the `template.env` file to `.env`
